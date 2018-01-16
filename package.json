@@ -1,0 +1,23 @@
+{
+  "name": "docker-test-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinofseven/docker-test-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinofseven/docker-test-image/issues"
+  },
+  "homepage": "https://github.com/sinofseven/docker-test-image#readme",
+  "devDependencies": {
+    "@slack/client": "^3.15.0"
+  }
+}
